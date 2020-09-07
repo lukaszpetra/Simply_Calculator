@@ -1,5 +1,4 @@
 # Simply_Calculator
-Simple calculator</br>
-Using html/css and javascript
+Simple calculator in html and javascript
 ## Screenshots
 ![Example screenshot](img/calc1.png)
